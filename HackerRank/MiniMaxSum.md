@@ -15,7 +15,7 @@ To compute 2 larger number in school mathematics:
 	3) Reverse the result string.
 ### Optimize
 # Solution
-
+```java
     import java.io.*;
     import java.math.*;
     import java.security.*;
@@ -111,3 +111,4 @@ To compute 2 larger number in school mathematics:
         scanner.close();
     }
 }
+```
